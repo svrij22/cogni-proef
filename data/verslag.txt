@@ -1,0 +1,77 @@
+Eindverslag
+Het effect van lyrics in achtergrondmuziek op hoofdrekenen
+
+Sep Vrij - 6663729
+Anne Roel - 4662792
+Seanna Jacobs - 1273256
+Joseline Lunda - 9994955
+
+
+
+Inleiding
+Observatie
+Veel studenten luisteren muziek tijdens het uitvoeren van cognitieve taken. Of dit hun prestaties verbetert of verslechtert, is in de literatuur nog niet eenduidig vastgesteld. Het effect lijkt af te hangen van het soort muziek. In ons onderzoek kijken wij naar de rekenprestaties van studenten die sommen oplossen terwijl zij naar muziek met of zonder lyrics luisteren.
+Theoretische achtergrond
+Muziek is een veelvoorkomende vorm van achtergrond stimulatie tijdens het studeren. Het effect van achtergrondmuziek op cognitieve prestaties lijkt echter af te hangen van het soort muziek. Muziek met lyrics verstoort het vasthouden van meerdere cijfers sterker dan muziek zonder lyrics, waarvan het effect kleiner en minder consistent is [1]. Een verklaring ligt in de beperkte capaciteit van het werkgeheugen. Gezongen tekst lijkt op spraak en krijgt daardoor automatisch toegang tot het deel van het werkgeheugen dat verbale informatie tijdelijk vasthoudt. Instrumentale muziek bevat wel auditieve informatie, maar geen expliciete talige inhoud.
+Hoofdrekenen doet een beroep op datzelfde systeem. Bij sommen met meerdere stappen moet een tussenresultaat worden vastgehouden terwijl de volgende berekening wordt uitgevoerd. Lyrics zouden daarom ook rekenprestaties kunnen verminderen. Onderzoek bij studenten ondersteunt dit gedeeltelijk: wiskundeopgaven werden slechter gemaakt met popmuziek met zang dan in stilte [2]. Omdat in dat onderzoek niet met instrumentale muziek werd vergeleken, is niet vast te stellen of het effect aan de lyrics zelf toe te schrijven is.
+Een directe vergelijking tussen stilte, instrumentale muziek en muziek met lyrics liet zien dat lyrics het geheugen en leesbegrip verminderden, maar vond bij rekenen geen betrouwbaar effect [3]. Dat resultaat is mogelijk deels te verklaren door de opzet van de taak. De som bleef gedurende de hele trial zichtbaar, waardoor er weinig informatie in het werkgeheugen hoefde te worden vastgehouden. Daarnaast verschilden de instrumentale en de lyrische muziek ook in genre en bekendheid. Een rekentaak waarbij een tussentotaal wél onthouden moet worden, blijkt gevoeliger voor achtergrondgeluid [4]. Het blijft daarom de vraag of lyrics rekenprestaties verminderen wanneer de taak een beroep doet op het werkgeheugen en de overige muzikale kenmerken gelijk worden gehouden. 
+
+Onderzoeksvraag
+Wat is het effect van achtergrondmuziek met lyrics versus instrumentale achtergrondmuziek op hoofdrekenen bij universitaire studenten?
+Theoretische motivatie en wetenschappelijke relevantie
+Dit onderwerp is relevant omdat studeren met muziek een alledaagse bezigheid van studenten is. Het oordeel van studenten over die muziek komt echter niet altijd overeen met hun prestaties. Lyrics worden doorgaans als storend ervaren, ook wanneer de prestatie objectief niet verslechtert, terwijl instrumentale muziek soms als nuttig wordt beoordeeld [3]. Andere studenten merken juist niet dat muziek hun prestaties vermindert [2].
+Eerdere studies zijn bovendien moeilijk met elkaar te vergelijken, omdat zij verschillende taken en verschillende soorten muziek gebruiken. Voor rekenen ontbreekt een vergelijking waarin alleen de aanwezigheid van lyrics verschilt en genre, tempo en melodie gelijk blijven. Rekenen heeft daarnaast als voordeel dat een antwoord eenduidig goed of fout is, waardoor de prestatie objectief te meten is.
+Hypothese
+Universitaire studenten die tijdens hoofdrekenen naar achtergrondmuziek met lyrics luisteren, lossen minder sommen correct op dan wanneer zij naar de instrumentale versie van dezelfde muziek luisteren.
+
+Methode
+Proefpersonen
+Aan het experiment doen 28 studenten mee. Iedere deelnemer neemt aan beide condities deel, zodat het verschil tussen lyrics en instrumentale muziek binnen dezelfde persoon vergeleken kan worden. Deelnemers geven aan normaal te horen. Deelname is vrijwillig en duurt ongeveer twintig minuten.
+Materiaal
+De deelnemer werkt op een laptop met oortjes van ons; het volume is voor iedereen gelijk.
+De muziek bestaat uit vier popnummers, elk in een versie met lyrics en een instrumentale versie van hetzelfde nummer. Zo blijven genre, tempo en volume gelijk en verschillende condities alleen in de aanwezigheid van zang. Er worden nummers gekozen waarin vrijwel doorlopend gezongen wordt. Het nummer speelt op een vast volume, hard genoeg om de tekst te verstaan, en blijft spelen tot het blok is afgerond.
+De rekentaak is gebaseerd op de taak van Perham en collega's [4]. Per som verschijnen acht getallen één voor één op het scherm, elk gedurende 1,8 seconden. De deelnemer telt de cijfers in het hoofd op. Na het laatste cijfer verschijnt een = teken en typt de deelnemer het totaal in. Omdat de cijfers niet zichtbaar blijven, moet het tussentotaal in het werkgeheugen worden vastgehouden. Er zijn vier sets van acht sommen van vergelijkbare moeilijkheid (eindtotaal tussen 30 en 60). Twee oefensommen in stilte tellen niet mee.
+Ontwerp
+Het ontwerp is within-subjects met twee condities: achtergrondmuziek met lyrics en instrumentale achtergrondmuziek. De onafhankelijke variabele is het soort muziek. De afhankelijke variabele is het percentage correct opgeloste sommen. Daarnaast wordt de antwoordtijd geregistreerd.
+Elke deelnemer maakt alle zes de sets, drie met lyrics en drie instrumentaal, elk met een ander nummer. Er wordt gebruikgemaakt van counterbalancing. Daarnaast wordt gerouleerd welke set en welk nummer aan welke conditie gekoppeld zijn. Daardoor komt elke set en elk nummer even vaak in beide condities voor, en valt het latere deel van de sessie niet steeds in dezelfde conditie.
+
+Procedure
+Na een korte instructie zet de deelnemer de oortjes in. Eerst volgen de twee oefensommen in stilte, zodat het verloop van een trial duidelijk is. Daarna volgen de 6 blokken van 3 sommen. Drie blokken met muziek met lyrics en drie blokken met muziek zonder lyrics.
+Een blok verloopt als volgt. De muziek start en na een aantal seconden begint de eerste som. Een trial bestaat uit een fixatiekruis (1 seconde), gevolgd door acht cijfers van elk 1,8 seconde. Daarna verschijnt het =-teken en typt de deelnemer het antwoord in, met maximaal 8 seconden de tijd. Vervolgens start de volgende som. Na drie sommen van 8 cijfers stopt de muziek en volgt een korte pauze voor het volgende blok, met de andere muzieksoort. Een blok duurt ongeveer een minuut.
+Data en analyse
+Voor elke deelnemer zijn er per muzieksoort 3 sommen gemaakt van 8 cijfers. Voor elk van deze 3 sommen staat of het antwoord correct was, hoeveel je van het antwoord af zat en hoe lang de deelnemer deed over het beantwoorden van de som.
+De score wordt als volgt berekent
+10*(antwoord is fout) +
+hoeveel punten de deelnemer van het goede antwoord af zat + 
+tijd nodig om het antwoord in te vullen.
+
+Resultaten
+
+
+Bronnen
+[1] Salamé, P., & Baddeley, A. (1989). Effects of background music on phonological short-term memory. The Quarterly Journal of Experimental Psychology Section A, 41(1), 107–122. https://doi.org/10.1080/14640748908402355
+[2] Christopher, E. A., & Shelton, J. T. (2017). Individual differences in working memory predict the effect of music on student performance. Journal of Applied Research in Memory and Cognition, 6(2), 167–173. https://doi.org/10.1016/j.jarmac.2017.01.012
+[3] Souza, A. S., & Barbosa, L. C. L. (2023). Should we turn off the music? Music with lyrics interferes with cognitive tasks. Journal of Cognition, 6(1), 24. https://doi.org/10.5334/joc.273
+[4] Perham, N., Hodgetts, H., & Banbury, S. (2013). Mental arithmetic and non-speech office noise: An exploration of interference-by-content. Noise & Health, 15(62), 73–78. https://doi.org/10.4103/1463-1741.107160
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
