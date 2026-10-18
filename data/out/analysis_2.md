@@ -10,7 +10,7 @@ A higher proportion correct is better. A higher response time is slower. A highe
 
 ## Data
 
-All trials come from `data/combined.csv` (352 rows, 22 people), stacked from `data/Sep.csv`, `data/jeanne.csv`, and `data/anne.csv`. The person is `name`. The planned sample is 28 students. These results use the 22 people in the file.
+All trials come from `data/combined.csv` (478 rows, 29 people), stacked from `data/sep.csv`, `data/seanna.csv`, `data/anne.csv`, and Joseline’s seven exports. The person is `name`. The planned sample is 28 students. These results use the 29 people in the file.
 
 One trial stored as `Lyrics` was treated as `lyrics`.
 
@@ -18,13 +18,13 @@ One trial stored as `Lyrics` was treated as `lyrics`.
 
 **Proportion correct.** Every scored trial counts. `correct` is `true` or `false`. A blank answer is already marked `false`, so it counts as wrong. Impossible answers such as 300 also count as wrong.
 
-**Response time.** The time is `rt_ms`, in milliseconds. Trials with no recorded time are left out of this outcome only. Seven music trials have no time. Every person still has at least one time in both music conditions, so all 22 people stay in the test. The score for a person is the mean of that person's trial times.
+**Response time.** The time is `rt_ms`, in milliseconds. Trials with no recorded time are left out of this outcome only. Every person still has at least one time in both music conditions, so all 29 people stay in the test. The score for a person is the mean of that person's trial times.
 
 **Absolute error.** The value is `diff`, the distance from the correct sum. A trial enters this outcome when the typed answer is a possible total for eight digits from 1 to 9, so the answer is between 8 and 72. Three music trials stay out: Participant 3 typed 300, Participant 4 left the answer blank, and Participant 5 typed 3. The score for a person is the mean of the remaining distances.
 
-**Silence.** For 14 people, condition `none` is the two opening practice sums. Those 28 trials stay out of every test. For 8 people (Bommel, Bram, Cas, Fay, Floor, Gerdien, Lotte, Lotte Jr), silence is a block of three sums in the same format as the music blocks. Those eight are the sample for the three condition differences.
+**Silence.** For 14 people, condition `none` is the two opening practice sums. Those 28 trials stay out of every test. Joseline’s seven people have no silence rows. For 8 people (Bommel, Bram, Cas, Fay, Floor, Gerdien, Lotte, Lotte Jr), silence is a block of three sums in the same format as the music blocks. Those eight are the sample for the three condition differences.
 
-The lyrics-versus-instrumental tests use all 22 people: 150 lyrics trials and 150 instrumental trials. Most people have 9 trials per condition. The named group has 3. aus has 6 instrumental trials. Participant 3 has 12 instrumental trials.
+The lyrics-versus-instrumental tests use all 29 people: 213 lyrics trials and 213 instrumental trials. Most people have 9 trials per condition. Sep’s named group has 3. aus has 6 instrumental trials. Participant 3 has 12 instrumental trials.
 
 ## How the tests were calculated
 
@@ -44,39 +44,39 @@ Where the differences are a poor fit to a normal curve, a Wilcoxon signed-rank t
 
 ## Proportion correct
 
-Mean proportion correct was 0.631 with lyrics and 0.734 with instrumental music. The mean difference was \(-0.102\) (SD \(0.193\)): about 10.2 percentage points lower with lyrics.
+Mean proportion correct was 0.625 with lyrics and 0.691 with instrumental music. The mean difference was \(-0.066\) (SD \(0.204\)): about 6.6 percentage points lower with lyrics.
 
 \[
-t(21) = -2.49, \quad p = .021, \quad d_z = -0.53
+t(28) = -1.74, \quad p = .092, \quad d_z = -0.32
 \]
 
-The 95% confidence interval is \([-0.188, -0.017]\). Twelve people scored lower with lyrics, three scored higher, and seven scored the same. A Wilcoxon test gives \(p = .026\).
+The 95% confidence interval is \([-0.144, 0.012]\). It includes zero. Fourteen people scored lower with lyrics, five scored higher, and ten scored the same. A Wilcoxon test gives \(p = .098\).
 
-In the full sample, accuracy was lower with lyrics than with instrumental music.
+In the full sample, the two-sided test does not show a reliable accuracy difference. The hypothesis is directional, and the one-sided p-value is .046.
 
 ## Response time
 
-Mean response time was 3046 ms with lyrics and 2924 ms with instrumental music. The mean difference was \(+122\) ms (SD \(562\)): people were slightly slower with lyrics.
+Mean response time was 3290 ms with lyrics and 3087 ms with instrumental music. The mean difference was \(+203\) ms (SD \(539\)): people were slower with lyrics.
 
 \[
-t(21) = 1.01, \quad p = .32, \quad d_z = 0.22
+t(28) = 2.02, \quad p = .053, \quad d_z = 0.38
 \]
 
-The 95% confidence interval is \([-128, 371]\) ms. It includes zero. Fifteen people were slower with lyrics and seven were faster. The differences are skewed (Shapiro–Wilk \(p = .024\)). A Wilcoxon test gives \(p = .074\).
+The 95% confidence interval is \([-2, 407]\) ms. It includes zero, by about 2 ms. Twenty people were slower with lyrics and nine were faster. The differences are skewed (Shapiro–Wilk \(p = .016\)). A Wilcoxon test gives \(p = .009\).
 
-In the full sample, response time does not show a reliable lyrics effect.
+The t-test is compatible with no difference. The rank test, which fits these skewed differences better, shows longer times with lyrics.
 
 ## Absolute error
 
-On possible answers, the mean distance from the correct sum was 1.55 with lyrics and 1.13 with instrumental music. The mean difference was \(+0.42\) points (SD \(1.74\)).
+On possible answers, the mean distance from the correct sum was 1.57 with lyrics and 1.33 with instrumental music. The mean difference was \(+0.24\) points (SD \(1.60\)).
 
 \[
-t(21) = 1.13, \quad p = .27, \quad d_z = 0.24
+t(28) = 0.81, \quad p = .42, \quad d_z = 0.15
 \]
 
-The 95% confidence interval is \([-0.35, 1.19]\). A few people still miss by 10 points or more inside the possible range, especially Participant 3, so the differences are skewed (Shapiro–Wilk \(p < .001\)). A Wilcoxon test gives \(p = .22\).
+The 95% confidence interval is \([-0.37, 0.85]\). A few people still miss by many points inside the possible range, especially Participant 3, so the differences are skewed (Shapiro–Wilk \(p < .001\)). A Wilcoxon test gives \(p = .47\).
 
-In the full sample, the size of the miss does not show a reliable lyrics effect. The accuracy difference above is carried by wrong versus right, rather than by a larger average miss on every trial.
+In the full sample, the size of the miss does not show a reliable lyrics effect.
 
 ## No music: three differences
 
@@ -106,18 +106,18 @@ Accuracy and absolute error: each confidence interval includes zero. In these 8 
 
 Response time: all 8 people were slower with lyrics than with instrumental music, and all 8 were slower with lyrics than in silence. Seven of 8 were slower with instrumental music than in silence. Those three time differences are reliable in this group. Wilcoxon tests give \(p = .008\), \(p = .008\), and \(p = .016\).
 
-This time effect is stronger than the time effect in the full sample of 22. Several of the other participants were faster with lyrics, so the average across everyone is only \(+122\) ms and is not reliable. The result to quote for the planned lyrics-versus-instrumental comparison is the test on all 22 people. The table above describes the eight people who also did a silence block.
+This time effect is stronger than the time effect in the full sample of 29. The result to quote for the planned lyrics-versus-instrumental comparison is the test on all 29 people. The table above describes the eight people who also did a silence block.
 
 ## Check on digit duration
 
 The report shows each digit for 1.8 seconds. Five people (anne, aus, wouter, Participant 6, Participant 7) saw each digit for 1.5 seconds. The tests above keep them in.
 
-Repeating the lyrics-versus-instrumental tests on the other 17 people:
+Repeating the lyrics-versus-instrumental tests on the other 24 people:
 
 | Outcome | Mean difference | Test | 95% CI |
 |---|---:|---|---|
-| Proportion correct | −0.083 | \(t(16) = -1.77\), \(p = .096\) | [−0.183, 0.017] |
-| Response time (ms) | +70 | \(t(16) = 0.49\), \(p = .63\) | [−230, 369] |
-| Absolute error | +0.40 | \(t(16) = 0.86\), \(p = .41\) | [−0.60, 1.40] |
+| Proportion correct | −0.045 | \(t(23) = -1.08\), \(p = .29\) | [−0.131, 0.041] |
+| Response time (ms) | +183 | \(t(23) = 1.61\), \(p = .12\) | [−51, 416] |
+| Absolute error | +0.19 | \(t(23) = 0.55\), \(p = .59\) | [−0.53, 0.92] |
 
-Each interval includes zero. The accuracy result in the full set of 22 depends in part on the five people who saw the faster digits. The response-time result in that full set was already compatible with no difference.
+Each t-test interval includes zero. On response time in this subset the differences are still skewed, and a Wilcoxon test gives \(p = .027\).

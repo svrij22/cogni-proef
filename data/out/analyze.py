@@ -15,7 +15,7 @@ from pathlib import Path
 
 from scipy import stats
 
-# combined.csv stacks Sep.csv, jeanne.csv, and anne.csv.
+# combined.csv stacks sep.csv, seanna.csv, anne.csv, and Joseline's exports.
 DATA = Path(__file__).resolve().parents[1] / "combined.csv"
 
 # Eight digits drawn from 1 to 9 sum to something between 8 and 72.
